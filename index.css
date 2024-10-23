@@ -1,0 +1,21 @@
+/* بتدخل مكتبة فونت جوجل تختار الفونت ثم جيت كود  واحد تحطو في الهيد والتاني في ستايل
+وبعدين بتعدل الي في css
+بتغير الاستدعاء وممكن تحط الاستدعاء البادي او اتش ون فقط بس البادي افضل لتعميمم
+ */
+ /* او بتحط اللينكين في الستايل css */
+ /* // <uniquifier>: Use a unique and descriptive class name */
+ @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@400;700&family=Kablammo&display=swap');
+body{
+    font-family: "Aref Ruqaa Ink", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: "Aref Ruqaa Ink", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  /* 
+  ثانيا وضع ايموجي بي موقع فونت اوسوم */
+  /* بتداخد لينك فونت اوسوم من الموقع وتحطه في الهيد او البدي وتختار الايكون وتنسخ الكود */
